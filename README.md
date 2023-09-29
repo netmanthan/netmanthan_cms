@@ -28,7 +28,7 @@ This advanced open source app encourages both editors and designers to create we
 netmanthan CMS is proudly part of the Frappe family, born to support many Frappe Community members, developers, Enterprises with our highly versatile builder platform, giving creative wings to fly globally online.
 
 #### netmanthan CMS Screens
-![image](https://user-images.githubusercontent.com/54178464/191701378-7285350b-dece-4634-ac42-d0cb772eed1b.png)
+
 
 * Page Builder
 
