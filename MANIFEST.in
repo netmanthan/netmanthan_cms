@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include netmanthan_cms *.css
+recursive-include netmanthan_cms *.csv
+recursive-include netmanthan_cms *.html
+recursive-include netmanthan_cms *.ico
+recursive-include netmanthan_cms *.js
+recursive-include netmanthan_cms *.json
+recursive-include netmanthan_cms *.md
+recursive-include netmanthan_cms *.png
+recursive-include netmanthan_cms *.py
+recursive-include netmanthan_cms *.svg
+recursive-include netmanthan_cms *.txt
+recursive-exclude netmanthan_cms *.pyc
